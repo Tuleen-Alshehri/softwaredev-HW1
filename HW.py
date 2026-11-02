@@ -1,6 +1,7 @@
 i="i"
 T="love"
 l="cats"
-print(T,l)
 u = "hello"
+print(i)
 print(u)
+print(u,i,T,l)
